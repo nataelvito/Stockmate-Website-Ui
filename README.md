@@ -1,0 +1,1 @@
+StockMate merupakan website dan aplikasi mobile inventory management yang dirancang untuk membantu pemilik minimarket kecil dalam memantau stok barang secara lebih mudah, cepat, dan efisien. Aplikasi ini juga membantu staff toko dalam melakukan pencatatan stok masuk dan stok keluar secara real-time.
